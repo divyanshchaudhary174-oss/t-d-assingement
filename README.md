@@ -11,8 +11,8 @@ Task 1:- In this task there is a simple python program to perform airthematic pr
 Task 2:- In this task yhere is a simple python code for greeting someone by getting their first and last name. 
 
 ## Assignment no.2
-Task 1:- 
-Task 2:- 
+Task 1:- In this task there is a simple python program used to check whether an integer is evn or odd.
+Task 2:- In this task there is a simple python program used to get sum of integers from 1 to 50 by using loop.
 
 
 ## Tools Used
