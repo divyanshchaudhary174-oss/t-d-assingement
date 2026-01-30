@@ -15,5 +15,9 @@ Task 1:- In this task there is a simple python program used to check whether an 
 Task 2:- In this task there is a simple python program used to get sum of integers from 1 to 50 by using loop.
 
 
+## Assingement no.3
+Task 1:- In this task there is a simple python program used to calculate a factorial of non-negative integer.
+Task 2:- In this task there is a simple python program used to calculate square root , logarithms, and sin (value in radians) of a integer.
+
 ## Tools Used
 - VS Code
